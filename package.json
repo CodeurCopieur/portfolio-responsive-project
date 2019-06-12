@@ -1,0 +1,11 @@
+{
+  "name": "portfolio_project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/codwerk/portfolio-responsive-project.git",
+  "author": "codwerk",
+  "license": "MIT",
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.9.0"
+  }
+}
