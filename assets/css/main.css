@@ -1,0 +1,121 @@
+body {
+    background: #0E0E0E;
+}
+
+html{
+    font-family: 'Raleway', sans-serif !important;
+}
+
+/* Header */
+
+.hdr-container {
+    width: 90%;
+    margin: 0 auto;
+}
+
+/*  Nav  */
+
+.navBar-items {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-top: 1em;
+}
+
+.navBar-item a {
+    font-size: 2em;
+    color: #fff;
+}
+
+/*  Nav  */
+
+/* Intro */
+
+.container-intro {
+    margin: 0 auto;
+    padding: 80px 0;
+    width: 80%;
+}
+
+.container-intro .titre-intro {
+    color: #fff;
+    font-size: 3em;
+    text-transform: uppercase;
+}
+
+.container-intro .description-intro {
+    color: #fff;
+    font-size: 1em;
+    font-weight: 300;
+    width: 80%;
+    margin-top: 10px;
+}
+
+/* Intro */
+
+/* Header */
+
+
+/* main */
+main {
+    width: 90% !important;
+    margin: 0 auto !important;
+}
+
+/*  work */
+.work {
+    text-align: center;
+    width: 100%;
+}
+
+.work img {
+    margin: 1%;
+    width: 45%;
+}
+/*  work */
+
+/*  work 2 */
+
+.work-2 {
+    width: 100%;
+    text-align: center;
+}
+
+
+.work-2 .container-intro-2 {
+    margin: 100px auto;
+    width: 92%;
+    color: #fff;
+    text-align: left;
+}
+
+.work-2 .container-intro-2 h1 {
+    font-size: 2em;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+
+.container-projects img {
+    margin: 1%;
+    width: 92%;
+}
+
+/*  work 2 */
+
+/* main */
+
+/* footer */ 
+
+.footer {
+    text-align: center;
+    margin: 60px auto;
+}
+
+
+.footer p {
+    color: #fff;
+    font-weight: 600;
+}
+
+/* footer */ 

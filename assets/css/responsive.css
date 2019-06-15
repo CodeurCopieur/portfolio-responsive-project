@@ -1,0 +1,53 @@
+@media only screen and (max-width: 991px){
+
+/* Header */
+
+.hdr-container {
+    text-align: left;
+}
+
+
+/* Intro */
+
+.container-intro .titre-intro {
+    font-size: 36px;
+}
+
+.container-intro .description-intro {
+    font-size: 12px;
+    width: 90%;
+}
+
+/* Intro */
+
+/* Header */
+
+
+/* main */
+
+.work img {
+    margin: 2%;
+    width: 90%;
+}
+
+.work-2 .container-intro-2 {
+    width: 90%;
+}
+
+.work-2 .container-intro-2 h1 {
+    font-size: 36px;
+}
+
+.work-2 .container-intro-2 p {
+
+    font-size: 12px;
+}
+
+.container-projects img{
+    width: 90%;
+}
+
+/* main */
+
+
+}
